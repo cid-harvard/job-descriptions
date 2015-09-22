@@ -1,9 +1,9 @@
 Open Positions
 ==============
 
-* UI/UX Designer
-* Research and Operational Intern
-* Software Development Intern
+* [UI/UX Designer] (/UX and UI Designer.md)
+* [Research and Operational Intern]
+* [Software Development Intern]
 
 About Us
 ========

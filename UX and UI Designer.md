@@ -13,11 +13,12 @@ If so, this is your opportunity to work on applications used around the world, i
 Responsibilities
 ----------------
 
-* Sketch, wireframe and prototype new features based on user interviews and surveys
+* Work in an agile environment to design features that we can ship fast in continuous iterations
+* Sketch, wireframe and prototype user workflows based on user interviews and surveys
+* Create visualizations for large amounts of data
 * Help integrate those new designs into web applications and update them based on feedback and analytics we gather
-* Help create new visualizations for large amounts of data into websites
 * Fix frontend bugs as they are found
-* Work in an agile-like environment to design features that we can ship fast in continuous iterations
+
 
 
 Actual minimum requirements
@@ -25,39 +26,35 @@ Actual minimum requirements
 
 You need hands on experience writing frontend code for the web, and you need to have performed usability testing or other research to inform and iterate on a product design.
 
-What we're looking for
+
+You'd be a good fit if:
 ----------------------
 
 We don't require that you have experience with all of this to begin with, but it is directly relevant to the role.
 
-* Hands-on web design experience
-* Experience running usability tests
-* Experience guiding designs through sketching, wireframing, comps and development
-* Knowledge of the latest trends and developments in CSS and Javascript 
-* Experience with Git or other version control systems 
+* You have experience creating and maintaining products with real-world users
+* You run usability tests
+* You have guided designs through sketching, wireframing, and launch
+* You feel comfortable working in HTML and CSS 
 
-Nice to Have
+
+Nice to haves:
 ==============
 
-Experience with any of these would help you contribute even more.
+* You can do or commission icon, photo or illustration work
+* You have a knack for writing UI copy and thinking about content first
+* You can dig into javascript or python code
+* You use git or other version control software
+* Your interest is piqued by economic and social development issues
 
-* Experience with creating or commissioning art, illustrations and icons
-* Knack for writing UI copy and thinking about content first
-* Visualization skills  (we use D3) 
-* Experience or interest in working with Javascript frameworks such as Ember, Angular or React
-* Familiarity with Python 
-* Background or interest in econ or development issues
-* Spanish language ability, or an interest in learning
 
 About Us
 --------
 
-We're a small engineering team inside the Harvard Growth Lab, working with a large group of brilliant researchers who tackle the problem of inclusive economic growth from diverse backgrounds like econ, public policy, physics, and international development.
-
-As engineers our past work ranges from software startups, to electoral campaign data teams, to PHDs in computer science.
+We're a small engineering team inside the CID, working with a group of brilliant economists and data scientists. As engineers, our past work ranges from software startups, to electoral campaign data teams, to PHDs in computer science.
 
 
 How to Apply
 ------------
 
-Send us a resume and portfolio or opensource links, along with salary requirements, to greg_shapiro@hks.harvard.edu
+Send some work that you're proud of to greg_shapiro@hks.harvard.edu

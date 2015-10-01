@@ -54,7 +54,7 @@ About Us
 We're a small engineering team inside the CID, working with a group of brilliant economists and data scientists. As engineers, our past work ranges from software startups, to electoral campaign data teams, to PHDs in computer science.
 
 
-How to Apply
+Get in touch
 ------------
 
-Send some work that you're proud of to greg_shapiro@hks.harvard.edu
+Send some work that you're proud of to: greg underscore shapiro at hks dot harvard dot edu

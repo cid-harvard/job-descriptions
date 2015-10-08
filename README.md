@@ -2,6 +2,7 @@ Open Positions
 ==============
 
 * [UI/UX Designer] (/UX and UI Designer.md)
+* [Web Developer] (/Web Developer.md)
 * [Research and Operational Intern]
 * [Software Development Intern]
 

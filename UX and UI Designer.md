@@ -1,4 +1,4 @@
-UX/UI Designer
+UX/UI Designer, Center for International Development
 ================
 *Cambridge, MA* 
 
@@ -10,8 +10,7 @@ Do you love working with the latest technology and tools?
 
 If so, this is your opportunity to work on applications used around the world, in a position where your work can make a difference in millions of lives.
 
-Responsibilities
-----------------
+## What you would do
 
 * Work in an agile environment to design features that we can ship fast in continuous iterations
 * Sketch, wireframe and prototype user workflows based on user interviews and surveys
@@ -21,14 +20,12 @@ Responsibilities
 
 
 
-Actual minimum requirements
----------------------------
+### Actual minimum requirements
 
 You need hands on experience writing frontend code for the web, and you need to have performed usability testing or other research to inform and iterate on a product design.
 
 
-You'd be a good fit if:
-----------------------
+### You'd be a good fit if:
 
 We don't require that you have experience with all of this to begin with, but it is directly relevant to the role.
 
@@ -48,13 +45,11 @@ Nice to haves:
 * Your interest is piqued by economic and social development issues
 
 
-About Us
---------
+## About Us
 
 We're a small engineering team inside the CID, working with a group of brilliant economists and data scientists. As engineers, our past work ranges from software startups, to electoral campaign data teams, to PHDs in computer science.
 
 
-Get in touch
-------------
+### Get in touch
 
 Send some work that you're proud of to: greg underscore shapiro at hks dot harvard dot edu

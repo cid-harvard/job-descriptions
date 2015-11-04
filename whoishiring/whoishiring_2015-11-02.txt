@@ -1,0 +1,28 @@
+Harvard Center for International Development - Onsite in Cambridge, MA (next to Boston)
+
+https://github.com/cid-harvard/job-descriptions
+
+* UI Developer (Visa possible) * Web and Data Developers (Visa possible) * Web Development INTERNS
+
+What we do:
+We take real world government data and research, and turn them into interactive data viz tools. The Atlas of Economic Complexity is our current online tool that lets you interactively visualize a country’s trade and explore growth opportunities for more than a hundred countries worldwide. There are also other National Atlas projects launching soon, one for Colombia and one for Mexico.
+
+Our stack:
+We use python, django, mysql (hopefully postgres soon), elasticsearch, ansible for the back end. For the frontend, it's ember / d3 on big national projects, jquery/d3 on atlas.cid.harvard.edu/ and WebGL with Three.js on some 3d projects that we’ve launched such as globe.cid.harvard.edu/ Everything we do is open source: https://github.com/cid-harvard
+
+Demo of the current atlas:
+An example of how the atlas is useful take this story here: http://www.nytimes.com/interactive/2014/03/21/world/europe/how-much-europe-depends-on-russian-energy.html
+
+Last year the EU placed sanctions on sales of oil equipment, but not on oil imports. Why could this be? Almost 70% of russia's exports are petrol products: http://atlas.cid.harvard.edu/explore/tree_map/export/rus/all/show/2013/
+
+And Russia exports the overwhelming majority of its petroleum products to Europe:
+http://atlas.cid.harvard.edu/explore/tree_map/export/rus/show/2709/2013/
+
+The big blue chunk is europe, meaning a sanction would really hurt Russia. However, when you look at who else the EU could buy from, the situation is grim: http://atlas.cid.harvard.edu/explore/tree_map/net_export/show/all/2709/2013/
+
+There’s practically no one who’s a real political ally that Europe could depend on, save for Norway. It’s interesting how it’s practically impossible to buy oil from a country that’s relatively stable and doing well on the HDI front.
+It’s worse if you consider the cost of transporting it, and how close Russia is:
+http://atlas.cid.harvard.edu/explore/map/net_export/show/all/2709/2013/
+
+Which probably explains why EU hasn't placed sanctions on oil imports from Russia.
+Get in touch:Send us some work you're proud of to greg_shapiro at hks dot harvard dot edu.

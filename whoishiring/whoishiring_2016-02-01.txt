@@ -8,7 +8,7 @@ What we do:
 We take real world government data and research, and turn them into interactive data viz tools. The Atlas of Economic Complexity is our current online tool that lets you interactively visualize a country’s trade and explore growth opportunities for more than a hundred countries worldwide. Last year we launched a Mexican Atlas http://complejidad.datos.gob.mx/ which allows users to explore data and understand policy effects at regional and local levels. This year we are launching similar tools in Colombia and Peru.
 
 Our stack:
-We use python, django, mysql (hopefully postgres soon), elasticsearch, ansible for the back end. For the frontend, it's ember / d3 on the country projects, jquery/d3 on atlas.cid.harvard.edu/ and WebGL with Three.js on some 3d projects that we’ve launched such as globe.cid.harvard.edu/ Everything we do is open source: https://github.com/cid-harvard
+We use python, django, flask, mysql, redis, elasticsearch for the back end. For the frontend, it's ember / d3 on the greenfield country projects, jquery/d3 on atlas.cid.harvard.edu/ and WebGL with Three.js on some 3d projects that we’ve launched such as globe.cid.harvard.edu/ Everything we do is open source: https://github.com/cid-harvard
 
 Demo of the current atlas:
 An example of how the atlas is useful take this story here: http://www.nytimes.com/interactive/2014/03/21/world/europe/how-much-europe-depends-on-russian-energy.html

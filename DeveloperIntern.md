@@ -12,27 +12,28 @@ If so, this is your opportunity to work on applications used around the world, i
 
 ## What you would do
 
-* TK Intern Stuff
+We have a range of opportunities for work this summer, and we're flexibile depending on individual interests and talents. Most importantly be ready to learn from other software devlopers and researchers, and expect to have some open source work you can show off by the end of the summer.
+
+Opportunities include:
+* Researching and implementing new visualizations for sites like atlas.cid.harvard.edu, or complejidad.datos.gob.mx
+* Prototyping tools that expose a datasets in a new way, or combine a story with interactive visuals help readers engage in the material. Think 538 or Upshot style.
+* Helping researchers with computationally challenging questions. We have access to individual level job or transportation data for entire cities and countries.
+* Exploring how alternative visualizations or machine learning models might give new insights into a dataset we already work with. 
+* Leading design explorations, prototyping, and usability testing to communicate economic theories or data insights in an intuitive way.
+* Working with researchers to find interesting results that could be broadcast with an analytic tool or visualization
+* Working on cutting edge visual to push the limits of browser technology. A previous intern created globe.cid.harvard.edu
 
 
-### Actual minimum requirements
+## You'd be a good fit if some of these are true:
 
-TK Intern requirements
-
-
-### You'd be a good fit if:
-
+* You've worked on some projects beyond class requirements, or taken your schoolwork to the next level (assuming you're in school)
 * You have a background or interest in econ, economic development, or social issues
-* You feel comfortable working in HTML and CSS 
-
-
-Bonuses:
-==============
-
-* You use git, and put things in source control any chance you get
-* You've used d3 or other visualization libraries
-* You've used WebGL
+* You have a github profile or some other way to show off some work you're proud of
+* You put things in source control any chance you get
+* You've worked in javascript, especially D3.js 
+* You've worked with WebGL or OpenGL
 * Your interest is piqued by economic and social development issues
+
 
 
 ## About Us

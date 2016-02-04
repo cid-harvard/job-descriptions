@@ -5,7 +5,7 @@ Open Positions
 * [Web Developer] (/Web Developer.md)
 * [Data and API Developer] (/Data and API Developer.md)
 * [Research and Operational Intern]
-* [Software Development Intern]
+* [Software and Data Development Intern] (/Developer Intern.md)
 
 About Us
 ========

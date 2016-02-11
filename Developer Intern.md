@@ -1,5 +1,5 @@
-Summer Intern (paid), Center for International Development
-================
+Software Intern, Harvard Center for International Development
+===========================
 *Cambridge, MA* 
 
 Do you want to work on products that help make the world a better place?

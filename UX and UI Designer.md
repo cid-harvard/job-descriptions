@@ -1,14 +1,14 @@
-UX/UI Designer, Center for International Development
+UX/UI Designer, Center for International Development at Harvard University 
 ================
 *Cambridge, MA* 
 
 Do you want to work on products that help make the world a better place?
 
-Would you enjoy working with a diverse, talented, and passionate team to make sure that researchers and policy makers around the world have the best data and insights for their communities to be successful?
+Would you enjoy working with a diverse, talented, and passionate team to make sure that researchers and policy makers around the world have the best economic data and insights for their regions and nations to be successful?
 
-Do you love working with the latest technology and tools?
+Do you love working with the latest technology and data visualization tools?
 
-If so, this is your opportunity to work on applications used around the world, in a position where your work can make a difference in millions of lives.
+If so, this is your opportunity to work on applications used by policy makers and economists around the world, in a position where your work can make a difference in millions of lives in developing countries.
 
 ## What you would do
 
